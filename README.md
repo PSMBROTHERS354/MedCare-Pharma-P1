@@ -8,7 +8,7 @@ The system continuously analyzes demand, forecasts future requirements, evaluate
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
 ### 🌐 Frontend Application
 
